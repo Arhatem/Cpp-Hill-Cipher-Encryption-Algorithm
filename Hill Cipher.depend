@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1571952197 source:d:\my projects\c++\hill cipher\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<stdio.h>
+
